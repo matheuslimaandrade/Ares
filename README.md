@@ -1,5 +1,2 @@
-#Squad2
-
-<br>
-Projeto para a disciplina Projeto Integrado Landing Page do FavaApp.
+Projeto para a disciplina Projeto Integrador I, Landing Page Inicial do FavaApp.
 
